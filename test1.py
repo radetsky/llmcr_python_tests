@@ -1,4 +1,10 @@
+my api_key = "testApiKeyForTheLLM"
 items = []
-  for x in range(10):
-      items.append(x)
+i = 0
+    for x in range(10):
+	i = i + 1
+        items.append(i)
+	print(x)
+
+
 
