@@ -1,2 +1,3 @@
-This is the test polygon for llm code review 
+This is the test project for jogging around the llm code review
+ 
 
